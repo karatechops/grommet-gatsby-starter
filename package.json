@@ -7,7 +7,7 @@
   "dependencies": {
     "@hpe/project-scripts": "^1.1.0",
     "@hpe/react-hooks": "^1.0.4",
-    "gatsby": "^2.22.15",
+    "gatsby": "^4.25.7",
     "gatsby-image": "^2.4.5",
     "gatsby-plugin-manifest": "^2.4.9",
     "gatsby-plugin-offline": "^3.2.7",
